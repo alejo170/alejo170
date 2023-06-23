@@ -14,15 +14,13 @@ Me considero una persona creativa, analítica y orientada a los detalles, con la
 
 ## 📝 Habilidades
 
-[<img src='./imagenes/html.png' title="HTML" alt='github' height='50'>]()
-<br />
-[<img src='./imagenes/css.png' title='CSS' alt='CSS' height='50'>]()
-
-<img src='./imagenes/javascript.png' title='Javascript' alt='Javascript' height="50">
-<img src='./imagenes/typescript.png' title='Typescript' alt='Typescript' height="50">
-<img src='./imagenes/react.png' title="HTML" alt='desarrollador web' height="50">
-<img src='./imagenes/nodejs.png' title="HTML" alt='desarrollador web' height="50">
-<img src='./imagenes/php.png' title="HTML" alt='desarrollador web' height="50">
+[<img src='./imagenes/html.png' title="HTML" alt='github' height='50'>](#)
+[<img src='./imagenes/css.png' title='CSS' alt='CSS' height='50'>](#)
+[<img src='./imagenes/javascript.png' title='Javascript' alt='Javascript' height="50">](#)
+[<img src='./imagenes/typescript.png' title='Typescript' alt='Typescript' height="50">](#)
+[<img src='./imagenes/react.png' title="React" alt='React' height="50">](#)
+[<img src='./imagenes/nodejs.png' title="NodeJS" alt='NodeJs' height="60">](#)
+[<img src='./imagenes/php.png' title="HTML" alt='desarrollador web' height="60">](#)
 
 ## 📝 Portafolio
 
