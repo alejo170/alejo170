@@ -2,25 +2,28 @@
 
 ## 👉 Sobre mi
 
-Tecnólogo en Sistemas de Información con una pasión por el desarrollo web. Actualmente, estoy estudiando para expandir mis habilidades y conocimientos.
+Tecnólogo en Sistemas de Información con una pasión por el desarrollo web. Actualmente estoy estudiando, tecnología en análisis y desarrollo de software en el SENA, para expandir mis habilidades y conocimientos.
 
-Me considero una persona creativa, analítica y orientada a los detalles, con la capacidad de diseñar y desarrollar soluciones web efectivas y atractivas. Estoy buscando una oportunidad para aplicar mis habilidades y experiencia como Desarrollador Web en un entorno desafiante y dinámico.
+Poseo una sólida capacidad para trabajar en equipo y comunicarme de manera efectiva. Siempre estoy dispuesto a aprender y mantenerme actualizado sobre las últimas tendencias y avances en el desarrollo web.
 
-## 📋 Intereses
+## 🔧 Habilidades
 
-- 🔭 Estoy actualmente buscando empleo de forma remota
-- 🌱 Estoy estudiando FullStack MERN | Tecnologia en analisis y desarollo de software
-- 👯 Quiero colaborar en el Front end y Back end
+- Desarrollo web front-end: HTML, CSS, JavaScript y React.
+- Experiencia en diseño responsive.
+- Conocimientos en bases de datos relacionales: PostgreSQL y no relacionales: MongoDB.
+- Conocimientos en lenguajes de programación back-end: NodeJS, PHP y TypeScript.
+- Control de versiones con Git.
+- Excelentes habilidades de comunicación y trabajo en equipo.
 
-## 📝 Habilidades
-
-[<img src='./imagenes/html.png' title="HTML" alt='github' height='50'>](#)
-[<img src='./imagenes/css.png' title='CSS' alt='CSS' height='50'>](#)
-[<img src='./imagenes/javascript.png' title='Javascript' alt='Javascript' height="50">](#)
-[<img src='./imagenes/typescript.png' title='Typescript' alt='Typescript' height="50">](#)
-[<img src='./imagenes/react.png' title="React" alt='React' height="50">](#)
-[<img src='./imagenes/nodejs.png' title="NodeJS" alt='NodeJs' height="60">](#)
-[<img src='./imagenes/php.png' title="HTML" alt='desarrollador web' height="60">](#)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' title='HTML5' alt='HTML5' height='35'>](#)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' title='CSS3' alt='CSS3' height='35'>](#)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' title='JavaScript' alt='JavaScript' height='35'>](#)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' title='TypeScript' alt='TypeScript' height='35'>](#)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' title='React' alt='React' height='35'>](#)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' title='NodeJS' alt='NodeJS' height='35'>](#)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' title='PostgreSQL' alt='PostgreSQL' height='35'>](#)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' title='MongoDB' alt='MongoDB' height='35'>](#)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' title='PHP' alt='PHP' height='35'>](#)
 
 ## 📝 Portafolio
 
