@@ -16,30 +16,24 @@ Poseo una sólida capacidad para trabajar en equipo y comunicarme de manera efec
 - Excelentes habilidades de comunicación y trabajo en equipo.
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title='HTML5' alt='HTML5' height='38' />](#)
-
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' title='CSS3' alt='CSS3' height='38'>](#)
-
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' title='JavaScript' alt='JavaScript' height='38'>](#)
-
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' title='TypeScript' alt='TypeScript' height='38'>](#)
-
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' title='React' alt='React' height='38'>](#)
-
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' title='NodeJS' alt='NodeJS' height='38'>](#)
-
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' title='PostgreSQL' alt='PostgreSQL' height='38'>](#)
-
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' title='MongoDB' alt='MongoDB' height='38'>](#)
-
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg' title='PHP' alt='PHP' height='38'>](#)
 
 ## 📝 Portafolio
 
+<kbd>
 <a href='https://alejo170.github.io/bookstore/' title="MERNbooks" target='_blank'>
-  <img width='49%'  src='./imagenes/mernbooks.webp' alt='MERNbooks' />
+  <img width='49%'  src='./imagenes/mernbooks.webp' alt='MERNbooks' caption="Leyenda de la imagen" />
 </a>
+</kbd>
 <a href='https://colombia-19kqo6m3z-alejo170.vercel.app/' title="Colombia" target='_blank'>
-  <img width='49%'  src='./imagenes/colombia.webp' alt='Colombia' />
+  <img width='49%'  src='./imagenes/colombia.webp' alt='Colombia' style="border: 3px solid red" />
 </a>
 <a href='https://www.productoslimpiaya.com/' title="Sitio web de Productos Limpiaya" target='_blank'>
   <img width='49%' src='./imagenes/limpiaya.webp' alt='Sitio web de Productos Limpiaya' />
