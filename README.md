@@ -28,19 +28,17 @@ Poseo una sólida capacidad para trabajar en equipo y comunicarme de manera efec
 ## 📝 Portafolio
 
 <a href='https://alejo170.github.io/bookstore/' title="MERNbooks" target='_blank'>
-<kbd>
-  <img width='46%'  src='./imagenes/mernbooks.webp' alt='MERNbooks' caption="Leyenda de la imagen" />
-</kbd>
+  <img width='49%'  src='./imagenes/mernbooks.webp' alt='MERNbooks' />
 </a>
-<table><tr><td>
+
 <a href='https://colombia-19kqo6m3z-alejo170.vercel.app/' title="Colombia" target='_blank'>
-<img width='46%'  src='./imagenes/colombia.webp' alt='Colombia' />
+  <img width='49%'  src='./imagenes/colombia.webp' alt='Colombia' />
 </a>
-</td></tr></table>
 
 <a href='https://www.productoslimpiaya.com/' title="Sitio web de Productos Limpiaya" target='_blank'>
   <img width='49%' src='./imagenes/limpiaya.webp' alt='Sitio web de Productos Limpiaya' />
 </a>
+
 <a href='https://www.englitypro.com/' title="Sitio Web de Englity" target='_blank'>
   <img width='49%' src='./imagenes/englity.webp' alt='Sitio Web de Englity' />
 </a>
