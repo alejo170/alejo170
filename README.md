@@ -29,12 +29,14 @@ Poseo una sólida capacidad para trabajar en equipo y comunicarme de manera efec
 
 <kbd>
 <a href='https://alejo170.github.io/bookstore/' title="MERNbooks" target='_blank'>
-  <img width='49%'  src='./imagenes/mernbooks.webp' alt='MERNbooks' caption="Leyenda de la imagen" />
+  <img width='46%'  src='./imagenes/mernbooks.webp' alt='MERNbooks' caption="Leyenda de la imagen" />
 </a>
 </kbd>
+<kbd>
 <a href='https://colombia-19kqo6m3z-alejo170.vercel.app/' title="Colombia" target='_blank'>
-  <img width='49%'  src='./imagenes/colombia.webp' alt='Colombia' style="border: 3px solid red" />
+  <img width='46%'  src='./imagenes/colombia.webp' alt='Colombia' />
 </a>
+</kbd>
 <a href='https://www.productoslimpiaya.com/' title="Sitio web de Productos Limpiaya" target='_blank'>
   <img width='49%' src='./imagenes/limpiaya.webp' alt='Sitio web de Productos Limpiaya' />
 </a>
