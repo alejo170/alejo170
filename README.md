@@ -15,15 +15,15 @@ Poseo una sólida capacidad para trabajar en equipo y comunicarme de manera efec
 - Control de versiones con Git.
 - Excelentes habilidades de comunicación y trabajo en equipo.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' title='HTML5' alt='HTML5' height='35'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' title='CSS3' alt='CSS3' height='35'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' title='JavaScript' alt='JavaScript' height='35'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' title='TypeScript' alt='TypeScript' height='35'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' title='React' alt='React' height='35'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' title='NodeJS' alt='NodeJS' height='35'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' title='PostgreSQL' alt='PostgreSQL' height='35'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' title='MongoDB' alt='MongoDB' height='35'>](#)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' title='PHP' alt='PHP' height='35'>](#)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title='HTML5' alt='HTML5' height='35' />](#)
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' title='CSS3' alt='CSS3' height='35'>](#)
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' title='JavaScript' alt='JavaScript' height='35'>](#)
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' title='TypeScript' alt='TypeScript' height='35'>](#)
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' title='React' alt='React' height='38'>](#)
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' title='NodeJS' alt='NodeJS' height='35'>](#)
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg' title='PostgreSQL' alt='PostgreSQL' height='38'>](#)
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg' title='MongoDB' alt='MongoDB' height='38'>](#)
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg' title='PHP' alt='PHP' height='38'>](#)
 
 ## 📝 Portafolio
 
@@ -42,4 +42,4 @@ Poseo una sólida capacidad para trabajar en equipo y comunicarme de manera efec
 
 ## ✉️ Contactame
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/alejo170 "Github") [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/alejandro-lopez-pineda/ "Linkedin")
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt='github' height='38'>](https://github.com/alejo170 "Github") [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='38'>](https://www.linkedin.com/in/alejandro-lopez-pineda/ "Linkedin")
