@@ -15,14 +15,22 @@ Poseo una sólida capacidad para trabajar en equipo y comunicarme de manera efec
 - Control de versiones con Git.
 - Excelentes habilidades de comunicación y trabajo en equipo.
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title='HTML5' alt='HTML5' height='35' />](#)
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' title='CSS3' alt='CSS3' height='35'>](#)
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' title='JavaScript' alt='JavaScript' height='35'>](#)
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' title='TypeScript' alt='TypeScript' height='35'>](#)
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' title='React' alt='React' height='38'>](#)
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' title='NodeJS' alt='NodeJS' height='35'>](#)
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg' title='PostgreSQL' alt='PostgreSQL' height='38'>](#)
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg' title='MongoDB' alt='MongoDB' height='38'>](#)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title='HTML5' alt='HTML5' height='38' />](#)
+
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' title='CSS3' alt='CSS3' height='38'>](#)
+
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' title='JavaScript' alt='JavaScript' height='38'>](#)
+
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' title='TypeScript' alt='TypeScript' height='38'>](#)
+
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' title='React' alt='React' height='38'>](#)
+
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' title='NodeJS' alt='NodeJS' height='38'>](#)
+
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' title='PostgreSQL' alt='PostgreSQL' height='38'>](#)
+
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' title='MongoDB' alt='MongoDB' height='38'>](#)
+
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg' title='PHP' alt='PHP' height='38'>](#)
 
 ## 📝 Portafolio
