@@ -2,16 +2,16 @@
 
 ## 👉 Sobre mi
 
-Tecnólogo en Sistemas de Información con una pasión por el desarrollo web. Actualmente estoy estudiando, tecnología en análisis y desarrollo de software en el SENA, para expandir mis habilidades y conocimientos.
+Soy Tecnólogo en Sistemas de Información de la Universidad del Valle. Actualmente estoy estudiando, Tecnología en Análisis y Desarrollo de Software en el SENA, para expandir mis habilidades y conocimientos.
 
 Poseo una sólida capacidad para trabajar en equipo y comunicarme de manera efectiva. Siempre estoy dispuesto a aprender y mantenerme actualizado sobre las últimas tendencias y avances en el desarrollo web.
 
 ## 🔧 Habilidades
 
-- Desarrollo web front-end: HTML, CSS, JavaScript y React.
+- Desarrollo web front-end: HTML, CSS, JavaScript, TypeScript y React.
 - Experiencia en diseño responsive.
-- Conocimientos en bases de datos relacionales: PostgreSQL y no relacionales: MongoDB.
-- Conocimientos en lenguajes de programación back-end: NodeJS, PHP y TypeScript.
+- Conocimientos en bases de datos relacionales: PostgreSQL.
+- Conocimientos en lenguajes de programación back-end: NodeJS y PHP.
 - Control de versiones con Git.
 - Excelentes habilidades de comunicación y trabajo en equipo.
 
@@ -22,7 +22,6 @@ Poseo una sólida capacidad para trabajar en equipo y comunicarme de manera efec
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' title='React' alt='React' height='38'>](#)
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' title='NodeJS' alt='NodeJS' height='38'>](#)
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' title='PostgreSQL' alt='PostgreSQL' height='38'>](#)
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' title='MongoDB' alt='MongoDB' height='38'>](#)
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg' title='PHP' alt='PHP' height='38'>](#)
 
 ## 📝 Portafolio
@@ -39,8 +38,8 @@ Poseo una sólida capacidad para trabajar en equipo y comunicarme de manera efec
   <img width='49%' src='./imagenes/limpiaya.webp' alt='Sitio web de Productos Limpiaya' />
 </a>
 
-<a href='https://www.englitypro.com/' title="Sitio Web de Englity" target='_blank'>
-  <img width='49%' src='./imagenes/englity.webp' alt='Sitio Web de Englity' />
+<a href='https://sonia-system.vercel.app/' title="Sistema de Gestion de Notas" target='_blank'>
+  <img width='49%' src='./imagenes/sonia.webp' alt='Sistema de Gestion de Notas' />
 </a>
 
 ## ✉️ Contactame
